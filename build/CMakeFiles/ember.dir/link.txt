@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ember.dir/src/main.cpp.o CMakeFiles/ember.dir/src/memory.cpp.o CMakeFiles/ember.dir/src/dump.cpp.o CMakeFiles/ember.dir/src/cpu.cpp.o CMakeFiles/ember.dir/src/alu.cpp.o -o ember 

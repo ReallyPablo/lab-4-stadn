@@ -1,0 +1,3 @@
+/workspaces/lab-03-stand/build/CMakeFiles/ember.dir
+/workspaces/lab-03-stand/build/CMakeFiles/edit_cache.dir
+/workspaces/lab-03-stand/build/CMakeFiles/rebuild_cache.dir
